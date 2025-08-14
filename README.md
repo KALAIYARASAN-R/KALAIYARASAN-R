@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaiyarasan-r&label=Profile%20views&color=0e75b6&style=flat" alt="kalaiyarasan-r" /> </p>
 
-- 🌱 I’m currently learning **Python    JAVA**
+- 🌱 I’m currently learning **Python & JAVA**
 
 - 👯 I’m looking to collaborate on **AI&ML**
 
